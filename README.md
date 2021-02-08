@@ -15,11 +15,14 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Otter
+- Mouse
+- Pig
+- Weasel
 
-1. Numbered
-2. List
+1. Log On
+2. Check Email
+3. Turn on Radio
 
 **Bold** and _Italic_ and `Code` text
 
